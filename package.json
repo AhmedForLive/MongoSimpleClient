@@ -1,5 +1,5 @@
 {
-  "name": "@AhmedForLive/MongoSimpleClient",
+  "name": "MongoSimpleClient",
   "version": "0.0.1",
   "description": "First Package for me",
   "main": "index.js",
