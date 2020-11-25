@@ -16,7 +16,7 @@
     "url": "https://github.com/AhmedForLive/MongoSimpleClient/issues"
   },
 "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
+  "registry":"https://npm.pkg.github.com/@AhmedForLive"
 },
   "homepage": "https://github.com/AhmedForLive/MongoSimpleClient#readme"
 }
