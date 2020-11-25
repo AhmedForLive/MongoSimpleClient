@@ -1,5 +1,5 @@
 {
-  "name": "mongosimpleclient",
+  "name": "MongoSimpleClient",
   "version": "0.0.1",
   "description": "First Package for me",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AhmedForLive/mongosimpleclient.git"
+    "url": "git+https://github.com/AhmedForLive/MongoSimpleClient.git"
   },
   "author": "A7med",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AhmedForLive/mongosimpleclient/issues"
+    "url": "https://github.com/AhmedForLive/MongoSimpleClient/issues"
   },
   "dependencies": {
     "mongodb": "*"
@@ -21,5 +21,5 @@
 "publishConfig": {
   "registry":"https://npm.pkg.github.com/@AhmedForLive"
 },
-  "homepage": "https://github.com/AhmedForLive/mongosimpleclient#readme"
+  "homepage": "https://github.com/AhmedForLive/MongoSimpleClient#readme"
 }
