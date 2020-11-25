@@ -1,4 +1,3 @@
-const fs = require('fs');
 const { MongoClient } = require('mongodb');
 
 const collection = require("./blocks/collection.js")
