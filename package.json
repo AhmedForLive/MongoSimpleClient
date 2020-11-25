@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/AhmedForLive/MongoSimpleClient/issues"
   },
+  "dependencies": {
+    "mongodb": "*"
+  },
 "publishConfig": {
   "registry":"https://npm.pkg.github.com/@AhmedForLive"
 },
