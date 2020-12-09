@@ -92,7 +92,7 @@ for( var i = 0; i < this.cache.length; i++){
 async update(query , obj){
 if(typeof obj !== "object" || typeof query !== "object") return new Error("the query must be object")
 return new Promise(async (resolve, reject) => {
-  await this._collection.updateOne(query, {$set : obj} , async (err, res) => {
+  await this._collection.updateOne(query, obj , async (err, res) => {
     if (err) throw new Error(err.message)
 this._getdata().then(d =>this.cache = d)
     return resolve(res)
